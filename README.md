@@ -5,6 +5,8 @@ To test POC, you have to be "SYSTEM" ===> via e.g. "psexec.exe -s -i poc.exe".
 
 
 //----------- Crash Dump -------------------------
+
+
 2: kd> !analyze -v
 *******************************************************************************
 *                                                                             *
